@@ -3,5 +3,5 @@
 
 #Hello world
 
--hi
--this is a bullet
+- hi
+- this is a bullet
