@@ -1,1 +1,3 @@
-console.log('This would be the main JS file.');
+  $('[data-toggle=offcanvas]').click(function() {
+    $('.row-offcanvas').toggleClass('active');
+  });
